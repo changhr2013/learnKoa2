@@ -1,0 +1,29 @@
+{
+  "name": "koa2go",
+  "version": "1.0.0",
+  "description": "learn koa2\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cbegin \u001b[2\u001b[2~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b learn koa2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/changhr2013/learnKoa2.git"
+  },
+  "keywords": [
+    "koa2"
+  ],
+  "author": "changhr2013",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changhr2013/learnKoa2/issues"
+  },
+  "homepage": "https://github.com/changhr2013/learnKoa2#readme",
+  "dependencies": {
+    "busboy": "^0.2.14",
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^3.2.0",
+    "koa-router": "^7.3.0",
+    "koa-static": "^4.0.2"
+  }
+}
